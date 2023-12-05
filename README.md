@@ -10,4 +10,4 @@
 
 **How to run project:** After all the prerequisties done . Just use rails s command to start the project.
 
-Explanation about project : In this project there is  full credentials of sign up , login , logout . Also the whole authentication system.
+**Explanation about project:** In this project there is  full credentials of sign up , login , logout . Also the whole authentication system.
